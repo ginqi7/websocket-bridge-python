@@ -1,0 +1,3 @@
+dist/
+env/
+websocket_bridge_python.egg-info/
